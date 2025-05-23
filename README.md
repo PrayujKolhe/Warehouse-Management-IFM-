@@ -18,7 +18,7 @@ This system integrates:
 ## 🧰 Components
 
 - **PLC**
-- **IFM J2N100** – Inclination Sensor  
+- **IFM JN2100** – Inclination Sensor  
 - **IFM TA2115** – Temperature Sensor  
 - **Buzzer** or **Indicator** for alerts  
 
